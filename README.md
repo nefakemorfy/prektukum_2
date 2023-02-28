@@ -1,2 +1,2 @@
-# prektukum_2
+# praktukum_2
 задачи
